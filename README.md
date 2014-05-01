@@ -1,4 +1,4 @@
-ed-beta-node-poc
-================
+node-beta
+=========
 
-Eardish Beta App Prototype/POC using Node.js framework
+Eardish Beta App Prototype/POC using Node.js framework.

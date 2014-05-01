@@ -1,0 +1,21 @@
+{
+  "name"          : "ED-BetaPOC-NodeServer",
+  "version"       : "0.0.0",
+  "author"        : "Eardish Corp.",
+  "description"   : "This is a trial run of a node server",
+  "private"       : true,
+  "contributors": [
+    {
+      "name"  : "Ryan Bogle",
+      "email" : "ryan@eardish.com"
+    },
+    {
+      "name"  : "Steven Kornblum",
+      "email" : "steve@eardish.com"
+    }
+  ],
+  "devDependencies": {
+    "grunt"   : "~0.4.2",
+    "less"    : "~1.6.1"
+  }
+}
